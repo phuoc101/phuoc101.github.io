@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - phuoc101
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - aalto-intelligent-robotics/REACT
+  - aalto-intelligent-robotics/EGG
+  - phuoc101/safe_landing
+  - phuoc101/GP_RL
