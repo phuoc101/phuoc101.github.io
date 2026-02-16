@@ -21,16 +21,20 @@ cv:
         studyType: MSc.Tech
         start_date: 2021
         end_date: 2023
-        score: "5/5"
+        score: ""
         courses: ""
         highlights:
-          - "Thesis: Vision-based safe autonomous UAV landing with panoramic sensors."
-          - "Design and develop a human detection model for an on-ground safe landing system utilizing a panoramic camera module."
-          - "Localize surrounding people by amalgamating object detection and distance estimation results."
-          - "When there are people near the landing zone, the UAV either retreats to a higher position or select an optimal landing position base on the surrounding"
+          - "GPA: 5/5"
+          - "Thesis: Vision-based safe autonomous UAV landing with panoramic sensors.
+
+            - Design and develop a human detection model for an on-ground safe landing system utilizing a panoramic camera module.
+
+            - Localize surrounding people by amalgamating object detection and distance estimation results.
+
+            - When there are people near the landing zone, the UAV either retreats to a higher position or select an optimal landing position base on the surrounding"
 
       - institution: Ho Chi Minh City University of Technology
-        location: Ho Chi Minh City, Vietnam
+        location: HCMC, Vietnam
         url: https://hcmut.edu.vn/en/
         area: Mechatronic Engineering
         studyType: BSc
@@ -60,25 +64,27 @@ cv:
         start_date: Aug 2022
         end_date: Oct 2022
         highlights:
-          - DATA.ML.100 Introduction to Pattern Recognition and Machine Learning 
+          - DATA.ML.100 Introduction to Pattern Recognition and Machine Learning
           - My tasks were helping students with their assignments and grading assignments
 
       - company: RBVH - Robert Bosch Engineering and Business Solutions Vietnam Company Limited
         position: Embedded (C/C++) Intern
-        location: Ho Chi Minh City, Vietnam
+        location: HCMC, Vietnam
         start_date: Aug 2019
         end_date: Jan 2020
         highlights:
           - Learn C/C++ by working with car media software.
 
-    Selected Publications:
+    Publications:
       - title: "Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations"
         authors:
           - Phuoc Nguyen
           - Francesco Verdoja
           - Ville Kyrki
         publisher: arxiv
+        releaseDate: 2026
         url: https://arxiv.org/abs/2510.18697
+        summary: A framework that adds observed events as nodes to a 3D scene graph and ground them to spatial features of the graph.
 
       - title: "REACT: Real-time Efficient Attribute Clustering and Transfer for Updatable 3D Scene Graph"
         authors:
@@ -88,6 +94,7 @@ cv:
         publisher: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
         releaseDate: 2025
         url: 10.1109/IROS60139.2025.11247273
+        summary: A framework for 3D scene graph update when a robot revisits a scene.
 
       - title: Vision-based safe autonomous UAV docking with panoramic sensors
         authors:
@@ -97,6 +104,19 @@ cv:
         publisher: Frontiers in Robotics and AI
         releaseDate: 2023
         url: Https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1223157
+        summary: Utilizing a panoramic sensor with an object detector model to facilitate safe UAV landing.
+
+    Projects:
+      - name: Data driven model learning for robot simulation and control
+        summary: Control manipulator of an Avant machine using Gaussian process modeling and reinforcement learning.
+        highlights:
+          - github.com/phuoc101/GP_RL
+          - youtube.com/watch?v=qDVkdOZNa60
+      - name: Frontier Exploration for Turtlebot3
+        summary: Implement frontier exploration algorithm to perform SLAM with Turtlebot3 in the Gazebo simulator.
+        highlights:
+          - github.com/phuoc101/robot_proj_2021
+          - youtube.com/watch?v=RQYh-rG6cbs
 
     Skills:
       - name: Specialization

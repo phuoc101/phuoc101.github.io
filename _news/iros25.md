@@ -7,6 +7,6 @@ related_posts: false
 related_publications: true
 ---
 
-I presented our work: "*REACT: Real-time Efficient Attribute Clustering and Transfer for Updatable 3D Scene Graph*" {% cite nguyen2025react %} at IROS 2025 in Hangzhou, China.
+I presented our work: "_REACT: Real-time Efficient Attribute Clustering and Transfer for Updatable 3D Scene Graph_" {% cite nguyen2025react %} at IROS 2025 in Hangzhou, China.
 
 ---

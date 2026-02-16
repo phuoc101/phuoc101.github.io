@@ -7,6 +7,6 @@ related_posts: false
 related_publications: true
 ---
 
-Our work: "*Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations*" {% cite nguyen2026eventgroundinggraphunifiedspatiotemporal %} to RA-L.
+Our work: "_Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations_" {% cite nguyen2026eventgroundinggraphunifiedspatiotemporal %} to RA-L.
 
 ---
