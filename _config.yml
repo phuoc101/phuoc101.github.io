@@ -278,8 +278,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Nguyen]
-  first_name: [Phuoc, P.]
+  last_name: [Nguyen, Nguyen Thuan, Thuan]
+  first_name: [Phuoc, P., Phuoc Thuan, Phuoc Nguyen]
 
   style: ieee
 
