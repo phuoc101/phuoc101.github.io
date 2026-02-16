@@ -93,7 +93,7 @@ cv:
           - Ville Kyrki
         publisher: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
         releaseDate: 2025
-        url: 10.1109/IROS60139.2025.11247273
+        url: https://arxiv.org/abs/2503.03412
         summary: A framework for 3D scene graph update when a robot revisits a scene.
 
       - title: Vision-based safe autonomous UAV docking with panoramic sensors
@@ -103,20 +103,20 @@ cv:
           - Jorge Peña Queralta
         publisher: Frontiers in Robotics and AI
         releaseDate: 2023
-        url: Https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1223157
+        url: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1223157
         summary: Utilizing a panoramic sensor with an object detector model to facilitate safe UAV landing.
 
     Projects:
       - name: Data driven model learning for robot simulation and control
         summary: Control manipulator of an Avant machine using Gaussian process modeling and reinforcement learning.
         highlights:
-          - github.com/phuoc101/GP_RL
-          - youtube.com/watch?v=qDVkdOZNa60
+          - https://github.com/phuoc101/GP_RL
+          - https://youtube.com/watch?v=qDVkdOZNa60
       - name: Frontier Exploration for Turtlebot3
         summary: Implement frontier exploration algorithm to perform SLAM with Turtlebot3 in the Gazebo simulator.
         highlights:
-          - github.com/phuoc101/robot_proj_2021
-          - youtube.com/watch?v=RQYh-rG6cbs
+          - https://github.com/phuoc101/robot_proj_2021
+          - https://youtube.com/watch?v=RQYh-rG6cbs
 
     Skills:
       - name: Specialization
