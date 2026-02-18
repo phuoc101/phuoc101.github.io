@@ -62,8 +62,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/iros25/";
-            },},{id: "news-our-work-quot-event-grounding-graph-unified-spatio-temporal-scene-graph-from-robotic-observations-quot-got-accepted-to-ra-l",
-          title: 'Our work &amp;quot;Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations&amp;quot; got accepted...',
+            },},{id: "news-our-work-quot-event-grounding-graph-unified-spatio-temporal-scene-graph-from-robotic-observations-quot-has-been-accepted-to-ra-l",
+          title: 'Our work &amp;quot;Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations&amp;quot; has been...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ral25_egg/";
