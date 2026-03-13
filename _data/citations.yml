@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-03-13'
 papers:
   JZKhG4QAAAAJ:2osOgNQ5qMEC:
-    citations: 97
+    citations: 99
     title: "An ai\u2010based prediction model for drug\u2010drug interactions in osteoporosis and Paget's diseases from smiles"
     year: '2022'
   JZKhG4QAAAAJ:9yKSN-GCB0IC:
@@ -16,7 +16,7 @@ papers:
   JZKhG4QAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: 'Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations'
-    year: '2025'
+    year: '2026'
   JZKhG4QAAAAJ:d1gkVwhDpl0C:
     citations: 2
     title: Prediction of anterior cruciate ligament injury from MRI using deep learning
