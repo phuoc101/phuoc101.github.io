@@ -40,6 +40,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ral25_egg/";
+            },},{id: "news-i-presented-our-work-quot-event-grounding-graph-unified-spatio-temporal-scene-graph-from-robotic-observations-quot-at-iros-2026-in-pittsburgh-pa-united-states",
+          title: 'I presented our work: &amp;quot;Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations&amp;quot;...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/iros26/";
+            },},{id: "news-i-am-visiting-the-robot-learning-lab-at-the-university-of-freiburg-from-9th-october-2026-31st-march-2027",
+          title: 'I am visiting the Robot Learning Lab at the University of Freiburg from...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/rl_visit/";
             },},{
         id: 'social-cv',
         title: 'CV',
